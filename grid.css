@@ -1,0 +1,12 @@
+
+header{
+  border: 1px solid grey;
+  text-align: center;
+  padding: 50px;
+}
+
+div{
+  display: flex;
+  margin: 10px;
+  text-align: center;
+}
