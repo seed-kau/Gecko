@@ -1,0 +1,18 @@
+
+header{
+  border: 1px solid grey;
+  padding: 50px;
+  text-align: center;
+
+}
+
+div{
+  display: flex;
+  margin: 10px;
+  text-align: center;
+}
+
+
+function addBorder(e){
+e.style = border-color: blue;
+}
