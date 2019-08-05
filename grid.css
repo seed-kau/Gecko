@@ -11,8 +11,3 @@ div{
   margin: 10px;
   text-align: center;
 }
-
-
-function addBorder(e){
-e.style = border-color: blue;
-}
