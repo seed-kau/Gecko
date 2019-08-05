@@ -27,11 +27,11 @@ function changeNum() {
 
 
   button.addEventListener("click", () => {
-      if(flag < 3) {
+      if(flag.length < 3) {
         alert('사진의 개수가 부족합니다. 더 선택해주세요.');
       }
 
-      else if(flag > 3) {
+      else if(flag.length > 3) {
           alert('사진의 개수가 많습니다. 3개만 선택해주세요.')
         }
 
