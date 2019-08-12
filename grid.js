@@ -36,7 +36,7 @@ function changeNum() {
         }
 
       else{
-
+          location.href='./Secpage.html'
       }
 
     });
