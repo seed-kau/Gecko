@@ -1,12 +1,16 @@
-header{
+header {
   border: 1px solid grey;
   padding: 50px;
   text-align: center;
-
 }
 
-div{
+div {
   display: flex;
   margin: 10px;
   text-align: center;
+}
+
+.img_perfume {
+  width: 300px;
+  height: auto;
 }
